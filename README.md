@@ -16,21 +16,21 @@ e. daftar folder yang telah di generate akan muncul pada "Daftar folder"
 
 ## Cooming Soon
 
-1. Checker for Chmod & Chown (Linux Mode)
-2. Security from SQL-injection
-3. Just bootstrap table or bootstrap datatables
-4. Pagination
-5. simple form login
-6. menu generator
-7. etc
+1. Relation routing
+2. etc
 
 ## Update
 
 1. Adding Generate All
-2. Adding form for Create connection file from web browser (21 Des 16)
+2. Adding form for Create connection file from web browser
 3. Adding Bootstrap Template for Generated file
 4. Adding Notif for Generated file (Create, Edit, Delete)
+5. Adding Parsley Js
+6. Fix Ajax
+7. Fix a Result with Header Type Json (U can make api with generator)
 
 
-> written with <3 by Me Gandhi Wibowo
+
+> Source by Gandhi Wibowo
+> Recoded By Masbimmm
 # CRUD-php-native-generator
