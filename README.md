@@ -29,8 +29,6 @@ e. daftar folder yang telah di generate akan muncul pada "Daftar folder"
 6. Fix Ajax
 7. Fix a Result with Header Type Json (U can make api with generator)
 
-
-
 > Source by Gandhi Wibowo
 > Recoded By Masbimmm
 # CRUD-php-native-generator
